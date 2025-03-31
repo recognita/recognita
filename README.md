@@ -12,7 +12,7 @@ Data Science Researcher | Experienced in ML and Biosignal Processing
 🔹 ML Libraries: NumPy, Pandas, scikit-learn
 🔹 DL Libraries: PyTorch (torch.nn), TensorFlow
 🔹 Signal Processing: MNE, SciPy, custom EEG pipelines
-🔹 Hardware: STM32 (C), Instrumental Amplifiers, Analog Filtering, работа с АЦП и ЦАП, интерфейсами УСБ УАРТ, работа сконструкторской документацией
+🔹 Hardware: STM32 (C), Instrumental Amplifiers, Analog Filtering, working with ADC and DAC, USB and UART interfaces, working with blueprints and hardware design documentation.
 
 GitHub Projects
 💪 An algorithm for classifying upper limb prosthesis movement types based on EIM recordings of antagonist muscles using ML models. Proposes an effective filtering and quantization method for training dataset formation.
