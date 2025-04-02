@@ -9,7 +9,7 @@ Data Science Researcher | Experienced in ML and Biosignal Processing
 
 🔹 3 years of experience with myo- and neurointerfaces, primarily focusing on developing ML solutions for bioelectric interfaces.
 🔹 Programming: Python
-🔹 ML Libraries: NumPy, Pandas, scikit-learn
+🔹 ML Libraries: NumPy, Pandas
 🔹 DL Libraries: PyTorch (torch.nn), TensorFlow
 🔹 Signal Processing: MNE, SciPy, custom EEG pipelines
 🔹 Hardware: STM32 (C), Instrumental Amplifiers, Analog Filtering, working with ADC and DAC, USB and UART interfaces, working with blueprints and hardware design documentation.
