@@ -14,7 +14,8 @@ Data Science Researcher | Experienced in ML and Biosignal Processing
 🔹 Signal Processing: MNE, SciPy, custom EEG pipelines
 🔹 Hardware: STM32 (C), Instrumental Amplifiers, Analog Filtering, working with ADC and DAC, USB and UART interfaces, working with blueprints and hardware design documentation.
 
-GitHub Projects
+GitHub Projects:
+
 💪 An algorithm for classifying upper limb prosthesis movement types based on EIM recordings of antagonist muscles using ML models. Proposes an effective filtering and quantization method for training dataset formation.
 🔗 [https://github.com/recognita/EIM-for-Muscle-Construction-Detection]
 
