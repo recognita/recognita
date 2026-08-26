@@ -18,11 +18,10 @@ MSc student in Mathematical Engineering at Politecnico di Milano · BSc in Biome
 
 | Project | What it does | Result |
 |---|---|---|
-| [paraexp_webster](https://github.com/ruthparajo/paraexp-webster) *(with Ruth Parajó)* | Time-parallel solver for the Webster equation modelling sound propagation in the human vocal tract: spectral elements in space, Crank-Nicolson in time, accelerated with the ParaExp parallel-in-time algorithm (C++/Eigen/OpenMP). | Up to 1.25× speedup at 16 processes; ParaExp and serial Crank-Nicolson recover identical vowel formant frequencies, confirming correctness |
-| [EIM_for_Muscle_Contraction_Detection](https://github.com/recognita/EIM-for-Muscle-Construction-Detection) | Signal processing + ML pipeline (filtering → feature extraction → classification) that detects muscle contraction type from electrical impedance myography, for upper-limb prosthesis control | 0.95 classification accuracy; presented at IEEE USBEREIT 2025 |
-| [Spatial_Harmonics](https://github.com/recognita/Spatial-Harmonics) | Spherical-harmonics-based neural layer for the 3D spatial-attention block in a speech representation model | ~40% parameter reduction with no accuracy loss; presented at Student Spring University Forum 2025 |
-| [Temporal_Filters](https://github.com/recognita/TemporalFilters) | Learnable wavelet / sinc parameterized temporal filters usable as preprocessing layers in EEGNet, SpatialNet, FBCSP and similar architectures | Reusable filter-layer library for EEG deep-learning pipelines |
-| [TUH_prepro](https://github.com/recognita/TUH-prepro) | Preprocessing pipeline that turns the raw TUH EEG Corpus into task-ready DataFrames | Data pipeline used for downstream ML experiments (ref. NeuroGPT, ISBI 2024) |
+| [paraexp-webster](https://github.com/ruthparajo/paraexp-webster) *(with Ruth Parajó)* | Time-parallel solver for the Webster equation modelling sound propagation in the human vocal tract: spectral elements in space, Crank-Nicolson in time, accelerated with the ParaExp parallel-in-time algorithm (C++/Eigen/OpenMP). | Up to 1.25× speedup at 16 processes; ParaExp and serial Crank-Nicolson recover identical vowel formant frequencies, confirming correctness |
+| [eim-for-muscle-contraction-detection](https://github.com/recognita/EIM-for-Muscle-Construction-Detection) | Signal processing + ML pipeline (filtering → feature extraction → classification) that detects muscle contraction type from electrical impedance myography, for upper-limb prosthesis control | 0.95 classification accuracy; presented at IEEE USBEREIT 2025 |
+| [spatial-harmonics](https://github.com/recognita/Spatial-Harmonics) | Spherical-harmonics-based neural layer for the 3D spatial-attention block in a speech representation model | ~40% parameter reduction with no accuracy loss; presented at Student Spring University Forum 2025 |
+| [temporal-filters](https://github.com/recognita/TemporalFilters) | Learnable wavelet / sinc parameterized temporal filters usable as preprocessing layers in EEGNet, SpatialNet, FBCSP and similar architectures | Reusable filter-layer library for EEG deep-learning pipelines |
 
 ---
 
