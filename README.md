@@ -27,13 +27,13 @@ MSc student in Mathematical Engineering at Politecnico di Milano · BSc in Biome
 
 ## Experience
 
-**Huawei Technologies** — Research Engineer (2025)
+**Huawei Technologies** — Research Engineer (Jun - Sep 2025)
 Deep learning–based computer vision models for real-world image processing; optimized neural networks for deployment on mobile NPUs.
 
-**HSE Centre for Bioelectric Interfaces** — Research Engineer (2023–2024)
+**HSE Centre for Bioelectric Interfaces** — Research Assistant (2023–2024)
 Deep learning for EEG/MEG signal analysis with a focus on interpretability and noise-robust filtering; designed the hardware for a real-time intraoperative ECoG mapping system used in the EloQ app (Google Play).
 
-**BMSTU, Mathematical Modeling in Biological Processes Lab** — Research Intern (2021–2025)
+**BMSTU, Mathematical Modeling in Biological Processes Lab** — Research Assistant (2021–2025)
 ML-based electrical impedance myography (EIM) study for muscle contraction detection; multimodal EEG data collection (visual, SSVEP); BCI research for stroke rehabilitation.
 
 ## Skills
