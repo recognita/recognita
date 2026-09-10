@@ -27,7 +27,7 @@ MSc student in Mathematical Engineering at Politecnico di Milano · BSc in Biome
 
 ## Experience
 
-**Huawei Technologies** — Research Engineer (Jun - Sep 2025)
+**Huawei Technologies** — Research Engineer (Sep 2024 - Oct 2025)
 Deep learning–based computer vision models for real-world image processing; optimized neural networks for deployment on mobile NPUs.
 
 **HSE Centre for Bioelectric Interfaces** — Research Assistant (2023–2024)
