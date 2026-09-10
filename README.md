@@ -5,7 +5,7 @@ ML Engineer — Machine Learning for bioelectric interfaces (EEG · ECoG · EMG/
 MSc student in Mathematical Engineering at Politecnico di Milano · BSc in Biomedical Engineering from Bauman Moscow State Technical University · based in Milan, Italy 🇮🇹 .
 
 - Research background spanning computer vision (Huawei) and EEG/MEG deep learning (HSE Centre for Bioelectric Interfaces)
-- 3+ years working on ML for myo- and neurointerfaces
+- 4+ years working on ML for myo- and neurointerfaces
 - Author of 2 peer-reviewed publications (IEEE USBEREIT 2025, Politechnical Student Journal)
 - Currently building a [time-parallel PDE solver for human phonation modelling](https://github.com/ruthparajo/paraexp-webster)
 - Open to research engineer / ML engineer roles in biomedical signal processing, computer vision, and scientific computing
@@ -33,7 +33,7 @@ Deep learning–based computer vision models for real-world image processing; op
 **HSE Centre for Bioelectric Interfaces** — Research Assistant (2023–2024)
 Deep learning for EEG/MEG signal analysis with a focus on interpretability and noise-robust filtering; designed the hardware for a real-time intraoperative ECoG mapping system used in the EloQ app (Google Play).
 
-**BMSTU, Mathematical Modeling in Biological Processes Lab** — Research Assistant (2021–2025)
+**BMSTU, Mathematical Modeling in Biological Processes Lab** — Research Assistant (2022–2025)
 ML-based electrical impedance myography (EIM) study for muscle contraction detection; multimodal EEG data collection (visual, SSVEP); BCI research for stroke rehabilitation.
 
 ## Skills
