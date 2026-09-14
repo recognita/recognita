@@ -4,13 +4,13 @@ ML Engineer — Machine Learning for bioelectric interfaces (EEG · ECoG · EMG/
 
 MSc student in Mathematical Engineering at Politecnico di Milano · BSc in Biomedical Engineering from Bauman Moscow State Technical University · based in Milan, Italy 🇮🇹 .
 
-- Research background spanning computer vision (Huawei) and EEG/MEG deep learning (HSE Centre for Bioelectric Interfaces)
+- Research background spanning computer vision (Huawei) and EEG/MEG deep learning (HSE Centre for Bioelectric Interfaces, BMSTU Mathematical Modelling in Biological Processes)
 - 4+ years working on ML for myo- and neurointerfaces
 - Author of 2 peer-reviewed publications (IEEE USBEREIT 2025, Politechnical Student Journal)
-- Currently building a [time-parallel PDE solver for human phonation modelling](https://github.com/ruthparajo/paraexp-webster)
+- Master's project - Modeling sound propagation in the human vocal tract -> [time-parallel PDE solver for human phonation modelling](https://github.com/ruthparajo/paraexp-webster)
 - Open to research engineer / ML engineer roles in biomedical signal processing, computer vision, and scientific computing
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/recognita) · hdnskgm@gmail.com
+**Contact:** [LinkedIn](https://www.linkedin.com/in/recognita) · hdnskgm@gmail.com 
 
 ---
 
@@ -27,7 +27,7 @@ MSc student in Mathematical Engineering at Politecnico di Milano · BSc in Biome
 
 ## Experience
 
-**Huawei Technologies** — Research Engineer (Sep 2024 - Oct 2025)
+**Huawei Technologies** — Research Engineer (Sep 2024 - Sep 2025)
 Deep learning–based computer vision models for real-world image processing; optimized neural networks for deployment on mobile NPUs.
 
 **HSE Centre for Bioelectric Interfaces** — Research Assistant (2023–2024)
