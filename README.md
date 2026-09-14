@@ -10,7 +10,7 @@ MSc student in Mathematical Engineering at Politecnico di Milano · BSc in Biome
 - Master's project - Modeling sound propagation in the human vocal tract -> [time-parallel PDE solver for human phonation modelling](https://github.com/ruthparajo/paraexp-webster)
 - Open to research engineer / ML engineer roles in biomedical signal processing, computer vision, and scientific computing
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/recognita) · hdnskgm@gmail.com 
+**Contact:** [LinkedIn](https://www.linkedin.com/in/recognita) ·  daria.makeeva14@gmail.com 
 
 ---
 
